@@ -53,8 +53,8 @@ sites:
     method: GET
     maxResponseTime: 1000    
 
-  - name: CDN API Endpoint
-    url: http://cdnproviders.roblox.com/
+  - name: Account Settings Ui
+    url: https://apis.roblox.com/universal-app-configuration/v1/behaviors/account-settings-ui/content
     method: GET
     maxResponseTime: 1000   
 
