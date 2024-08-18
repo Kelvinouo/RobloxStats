@@ -104,11 +104,6 @@ sites:
     url: https://inventory.roblox.com/v1/users/1427869852/assets/collectibles?limit=10&sortOrder=Asc
     method: GET
     maxResponseTime: 1000
-
-  - name: Text Filter API Endpoint
-    url: http://textfilter.roblox.com/
-    method: GET
-    maxResponseTime: 1
     
     # fix when roblox stop oopsie
 
