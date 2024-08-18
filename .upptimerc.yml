@@ -69,8 +69,10 @@ sites:
     maxResponseTime: 1000
 
   - name: Develop API Endpoint
-    url: https://develop.roblox.com/v1/toolbox/items?category=Hat&keyword=Hat
+    url: https://develop.roblox.com/v2/places/17625359962
     method: GET
+    expectedStatusCodes:
+      - 401
     maxResponseTime: 1000
 
 
