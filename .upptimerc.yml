@@ -2,20 +2,125 @@
 owner: Kelvinouo # Your GitHub organization or username, where this repository lives
 repo: RobloxStats # The name of this repository
 
-sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+
+  - name: Roblox Site (Under Aritifical Testing)
+    url: https://www.roblox.com
+    maxResponseTime: 1000
+
+  - name: Roblox Devforum
+    url: https://devforum.roblox.com
+    maxResponseTime: 1000
+
+  - name: Roblox Devhub
+    url: https://developer.roblox.com
+    maxResponseTime: 1000
+
+  - name: Account Information API
+    url: https://accountinformation.roblox.com
+    method: GET
+    maxResponseTime: 1000
+
+  - name: Account Settings API
+    url: https://accountsettings.roblox.com
+    method: GET
+    maxResponseTime: 1000
+
+
+  - name: Asset Delivery
+    url: https://assetdelivery.roblox.com
+    method: GET
+    maxResponseTime: 1000
+
+  - name: Avatar API Endpoint
+    url: https://avatar.roblox.com/v1/avatar-rules
+    method: GET
+    maxResponseTime: 1000
+
+
+  - name: Auth API Endpoint
+    url: https://auth.roblox.com
+    method: GET
+    maxResponseTime: 1000
+
+  - name: Badges API Endpoint
+    url: https://badges.roblox.com/v1/badges/2154057315
+    method: GET
+    maxResponseTime: 1000
+
+  - name: Billing API Endpoint
+
+    url: https://billing.roblox.com
+    method: GET
+    maxResponseTime: 1000    
+
+  - name: CDN API Endpoint
+    url: http://cdnproviders.roblox.com/
+    method: GET
+    maxResponseTime: 1000   
+
+  - name: Catalog API Endpoint
+    url: https://catalog.roblox.com/v1/bundles/details?bundleIds=192
+    method: GET
+    maxResponseTime: 1000
+
+  - name: Datastore API Endpoint
+    url: https://gamepersistence.roblox.com/
+    method: GET
+    maxResponseTime: 1000
+
+  - name: Develop API Endpoint
+    url: https://develop.roblox.com/v1/toolbox/items?category=Hat&keyword=Hat
+    method: GET
+    maxResponseTime: 1000
+
+
+  - name: Economy API Endpoint
+    url: https://economy.roblox.com
+    method: GET
+    maxResponseTime: 1000
+
+# this is a hack OMG
+  - name: Friends API Endpoint
+    url: https://friends.roblox.com/v1/metadata
+    method: GET
+    maxResponseTime: 1000
+
+  - name: Game Join API Endpoint
+    url: http://gamejoin.roblox.com/
+    method: GET
+    maxResponseTime: 1000 
+    
+  - name: Games API Endpoint
+    url: https://games.roblox.com
+    method: GET
+    maxResponseTime: 1000 
+
+  - name: Groups API Endpoint
+    url: https://groups.roblox.com/v1/groups/6594438
+    method: GET
+    maxResponseTime: 1000
+
+  - name: Inventory API Endpoint
+    url: https://inventory.roblox.com/v1/users/1427869852/assets/collectibles?limit=10&sortOrder=Asc
+    method: GET
+    maxResponseTime: 1000
+
+  - name: Text Filter API Endpoint
+    url: http://textfilter.roblox.com/
+    method: GET
+    maxResponseTime: 1
+    
+    # fix when roblox stop oopsie
+
+  - name: Thumbnails API Endpoint
+    url: https://thumbnails.roblox.com/v1/assets?assetIds=1427869852&format=Png&isCircular=false&size=30x30
+    method: GET
+    maxResponseTime: 1000
+
+  - name: Users API Endpoint
+    url: https://users.roblox.com/
+    method: GET
+    maxResponseTime: 1000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
