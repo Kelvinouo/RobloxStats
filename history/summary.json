@@ -374,18 +374,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/thumbnails.roblox.com.ico",
     "slug": "thumbnails-api-endpoint",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.92%",
     "time": 425,
     "timeDay": 815,
     "timeWeek": 377,
     "timeMonth": 523,
     "timeYear": 425,
     "dailyMinutesDown": {
-      "2024-09-26": 10,
       "2024-09-10": 35,
       "2024-09-09": 9
     }
