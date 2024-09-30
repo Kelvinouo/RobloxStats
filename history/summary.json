@@ -188,19 +188,19 @@
     "url": "https://apis.roblox.com/universal-app-configuration/v1/behaviors/account-settings-ui/content",
     "icon": "https://icons.duckduckgo.com/ip3/apis.roblox.com.ico",
     "slug": "account-settings-ui",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 193,
-    "timeDay": 1357,
-    "timeWeek": 439,
-    "timeMonth": 214,
-    "timeYear": 193,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 194,
+    "timeDay": 987,
+    "timeWeek": 418,
+    "timeMonth": 215,
+    "timeYear": 194,
     "dailyMinutesDown": {
-      "2024-09-30": 1
+      "2024-09-30": 13
     }
   },
   {
@@ -300,19 +300,19 @@
     "url": "http://gamejoin.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/gamejoin.roblox.com.ico",
     "slug": "game-join-api-endpoint",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 207,
-    "timeDay": 979,
-    "timeWeek": 364,
-    "timeMonth": 217,
-    "timeYear": 207,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 208,
+    "timeDay": 737,
+    "timeWeek": 352,
+    "timeMonth": 218,
+    "timeYear": 208,
     "dailyMinutesDown": {
-      "2024-09-30": 1
+      "2024-09-30": 12
     }
   },
   {
