@@ -398,19 +398,19 @@
     "url": "https://users.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/users.roblox.com.ico",
     "slug": "users-api-endpoint",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "94.40%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.89%",
-    "time": 194,
-    "timeDay": 1376,
-    "timeWeek": 540,
-    "timeMonth": 242,
-    "timeYear": 194,
+    "status": "degraded",
+    "uptime": "99.83%",
+    "uptimeDay": "91.35%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.83%",
+    "time": 365,
+    "timeDay": 3775,
+    "timeWeek": 1583,
+    "timeMonth": 567,
+    "timeYear": 365,
     "dailyMinutesDown": {
-      "2024-10-09": 81
+      "2024-10-09": 125
     }
   }
 ]
