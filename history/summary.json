@@ -58,19 +58,19 @@
     "url": "https://accountinformation.roblox.com",
     "icon": "https://icons.duckduckgo.com/ip3/accountinformation.roblox.com.ico",
     "slug": "account-information-api",
-    "status": "degraded",
-    "uptime": "98.65%",
-    "uptimeDay": "29.35%",
-    "uptimeWeek": "89.91%",
-    "uptimeMonth": "97.68%",
-    "uptimeYear": "98.65%",
-    "time": 279,
-    "timeDay": 1404,
-    "timeWeek": 793,
-    "timeMonth": 378,
-    "timeYear": 279,
+    "status": "down",
+    "uptime": "98.64%",
+    "uptimeDay": "28.65%",
+    "uptimeWeek": "89.81%",
+    "uptimeMonth": "97.65%",
+    "uptimeYear": "98.64%",
+    "time": 276,
+    "timeDay": 1212,
+    "timeWeek": 736,
+    "timeMonth": 369,
+    "timeYear": 276,
     "dailyMinutesDown": {
-      "2024-10-09": 1017
+      "2024-10-09": 1027
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/accountsettings.roblox.com.ico",
     "slug": "account-settings-api",
     "status": "down",
-    "uptime": "98.65%",
-    "uptimeDay": "29.35%",
-    "uptimeWeek": "89.91%",
-    "uptimeMonth": "97.68%",
-    "uptimeYear": "98.65%",
+    "uptime": "98.64%",
+    "uptimeDay": "28.66%",
+    "uptimeWeek": "89.81%",
+    "uptimeMonth": "97.65%",
+    "uptimeYear": "98.64%",
     "time": 158,
     "timeDay": 156,
     "timeWeek": 156,
     "timeMonth": 146,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-10-09": 1017
+      "2024-10-09": 1027
     }
   },
   {
@@ -99,18 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/assetdelivery.roblox.com.ico",
     "slug": "asset-delivery",
     "status": "down",
-    "uptime": "98.65%",
-    "uptimeDay": "29.35%",
-    "uptimeWeek": "89.91%",
-    "uptimeMonth": "97.68%",
-    "uptimeYear": "98.65%",
+    "uptime": "98.64%",
+    "uptimeDay": "28.66%",
+    "uptimeWeek": "89.81%",
+    "uptimeMonth": "97.65%",
+    "uptimeYear": "98.64%",
     "time": 152,
     "timeDay": 154,
     "timeWeek": 165,
     "timeMonth": 146,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2024-10-09": 1017
+      "2024-10-09": 1027
     }
   },
   {
@@ -143,18 +143,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.roblox.com.ico",
     "slug": "auth-api-endpoint",
     "status": "down",
-    "uptime": "98.63%",
-    "uptimeDay": "28.29%",
-    "uptimeWeek": "89.76%",
-    "uptimeMonth": "97.64%",
-    "uptimeYear": "98.63%",
+    "uptime": "98.62%",
+    "uptimeDay": "27.60%",
+    "uptimeWeek": "89.66%",
+    "uptimeMonth": "97.62%",
+    "uptimeYear": "98.62%",
     "time": 143,
     "timeDay": 109,
     "timeWeek": 137,
     "timeMonth": 131,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2024-10-09": 1032
+      "2024-10-09": 1042
     }
   },
   {
@@ -181,18 +181,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/billing.roblox.com.ico",
     "slug": "billing-api-endpoint",
     "status": "down",
-    "uptime": "98.63%",
-    "uptimeDay": "28.30%",
-    "uptimeWeek": "89.76%",
-    "uptimeMonth": "97.64%",
-    "uptimeYear": "98.63%",
+    "uptime": "98.62%",
+    "uptimeDay": "27.60%",
+    "uptimeWeek": "89.66%",
+    "uptimeMonth": "97.62%",
+    "uptimeYear": "98.62%",
     "time": 144,
     "timeDay": 126,
     "timeWeek": 141,
     "timeMonth": 138,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2024-10-09": 1032
+      "2024-10-09": 1042
     }
   },
   {
@@ -237,18 +237,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gamepersistence.roblox.com.ico",
     "slug": "datastore-api-endpoint",
     "status": "down",
-    "uptime": "98.65%",
-    "uptimeDay": "29.36%",
-    "uptimeWeek": "89.91%",
-    "uptimeMonth": "97.68%",
-    "uptimeYear": "98.65%",
+    "uptime": "98.64%",
+    "uptimeDay": "28.66%",
+    "uptimeWeek": "89.81%",
+    "uptimeMonth": "97.65%",
+    "uptimeYear": "98.64%",
     "time": 156,
     "timeDay": 172,
     "timeWeek": 156,
     "timeMonth": 153,
     "timeYear": 156,
     "dailyMinutesDown": {
-      "2024-10-09": 1017
+      "2024-10-09": 1027
     }
   },
   {
@@ -277,18 +277,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/economy.roblox.com.ico",
     "slug": "economy-api-endpoint",
     "status": "down",
-    "uptime": "98.63%",
-    "uptimeDay": "28.30%",
-    "uptimeWeek": "89.76%",
-    "uptimeMonth": "97.64%",
-    "uptimeYear": "98.63%",
+    "uptime": "98.62%",
+    "uptimeDay": "27.60%",
+    "uptimeWeek": "89.66%",
+    "uptimeMonth": "97.62%",
+    "uptimeYear": "98.62%",
     "time": 191,
     "timeDay": 639,
     "timeWeek": 408,
     "timeMonth": 230,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2024-10-09": 1032
+      "2024-10-09": 1042
     }
   },
   {
@@ -315,18 +315,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gamejoin.roblox.com.ico",
     "slug": "game-join-api-endpoint",
     "status": "down",
-    "uptime": "98.63%",
-    "uptimeDay": "28.30%",
-    "uptimeWeek": "89.76%",
-    "uptimeMonth": "97.64%",
-    "uptimeYear": "98.63%",
+    "uptime": "98.62%",
+    "uptimeDay": "27.61%",
+    "uptimeWeek": "89.66%",
+    "uptimeMonth": "97.62%",
+    "uptimeYear": "98.62%",
     "time": 194,
     "timeDay": 110,
     "timeWeek": 144,
     "timeMonth": 198,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2024-10-09": 1032
+      "2024-10-09": 1042
     }
   },
   {
@@ -335,18 +335,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/games.roblox.com.ico",
     "slug": "games-api-endpoint",
     "status": "down",
-    "uptime": "98.65%",
-    "uptimeDay": "29.36%",
-    "uptimeWeek": "89.91%",
-    "uptimeMonth": "97.68%",
-    "uptimeYear": "98.65%",
+    "uptime": "98.64%",
+    "uptimeDay": "28.67%",
+    "uptimeWeek": "89.81%",
+    "uptimeMonth": "97.66%",
+    "uptimeYear": "98.64%",
     "time": 130,
     "timeDay": 82,
     "timeWeek": 120,
     "timeMonth": 118,
     "timeYear": 130,
     "dailyMinutesDown": {
-      "2024-10-09": 1017
+      "2024-10-09": 1027
     }
   },
   {
@@ -417,18 +417,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/users.roblox.com.ico",
     "slug": "users-api-endpoint",
     "status": "down",
-    "uptime": "98.20%",
-    "uptimeDay": "5.52%",
-    "uptimeWeek": "86.50%",
-    "uptimeMonth": "96.89%",
-    "uptimeYear": "98.20%",
+    "uptime": "98.18%",
+    "uptimeDay": "4.83%",
+    "uptimeWeek": "86.40%",
+    "uptimeMonth": "96.87%",
+    "uptimeYear": "98.18%",
     "time": 352,
     "timeDay": 2543,
     "timeWeek": 1336,
     "timeMonth": 539,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2024-10-09": 1360
+      "2024-10-09": 1370
     }
   }
 ]
