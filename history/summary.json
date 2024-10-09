@@ -400,9 +400,9 @@
     "slug": "users-api-endpoint",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "90.45%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "90.03%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.81%",
     "time": 361,
     "timeDay": 3043,
@@ -410,7 +410,7 @@
     "timeMonth": 553,
     "timeYear": 361,
     "dailyMinutesDown": {
-      "2024-10-09": 138
+      "2024-10-09": 144
     }
   }
 ]
