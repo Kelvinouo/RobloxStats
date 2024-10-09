@@ -136,18 +136,20 @@
     "url": "https://auth.roblox.com",
     "icon": "https://icons.duckduckgo.com/ip3/auth.roblox.com.ico",
     "slug": "auth-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 145,
-    "timeDay": 133,
-    "timeWeek": 145,
-    "timeMonth": 134,
-    "timeYear": 145,
-    "dailyMinutesDown": {}
+    "time": 143,
+    "timeDay": 106,
+    "timeWeek": 135,
+    "timeMonth": 132,
+    "timeYear": 143,
+    "dailyMinutesDown": {
+      "2024-10-09": 0
+    }
   },
   {
     "name": "Badges API Endpoint",
@@ -172,18 +174,20 @@
     "url": "https://billing.roblox.com",
     "icon": "https://icons.duckduckgo.com/ip3/billing.roblox.com.ico",
     "slug": "billing-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 145,
-    "timeDay": 127,
-    "timeWeek": 141,
-    "timeMonth": 140,
-    "timeYear": 145,
-    "dailyMinutesDown": {}
+    "time": 143,
+    "timeDay": 103,
+    "timeWeek": 132,
+    "timeMonth": 138,
+    "timeYear": 143,
+    "dailyMinutesDown": {
+      "2024-10-09": 0
+    }
   },
   {
     "name": "Account Settings Ui",
@@ -264,18 +268,20 @@
     "url": "https://economy.roblox.com",
     "icon": "https://icons.duckduckgo.com/ip3/economy.roblox.com.ico",
     "slug": "economy-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 138,
-    "timeDay": 128,
-    "timeWeek": 128,
-    "timeMonth": 130,
-    "timeYear": 138,
-    "dailyMinutesDown": {}
+    "time": 137,
+    "timeDay": 103,
+    "timeWeek": 120,
+    "timeMonth": 127,
+    "timeYear": 137,
+    "dailyMinutesDown": {
+      "2024-10-09": 0
+    }
   },
   {
     "name": "Friends API Endpoint",
@@ -300,18 +306,20 @@
     "url": "http://gamejoin.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/gamejoin.roblox.com.ico",
     "slug": "game-join-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 199,
-    "timeDay": 122,
-    "timeWeek": 152,
-    "timeMonth": 208,
-    "timeYear": 199,
-    "dailyMinutesDown": {}
+    "time": 197,
+    "timeDay": 108,
+    "timeWeek": 144,
+    "timeMonth": 204,
+    "timeYear": 197,
+    "dailyMinutesDown": {
+      "2024-10-09": 0
+    }
   },
   {
     "name": "Games API Endpoint",
@@ -399,18 +407,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/users.roblox.com.ico",
     "slug": "users-api-endpoint",
     "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "87.97%",
-    "uptimeWeek": "98.28%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.77%",
+    "uptime": "99.64%",
+    "uptimeDay": "81.31%",
+    "uptimeWeek": "97.33%",
+    "uptimeMonth": "99.39%",
+    "uptimeYear": "99.64%",
     "time": 356,
     "timeDay": 2547,
     "timeWeek": 1334,
     "timeMonth": 539,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2024-10-09": 173
+      "2024-10-09": 269
     }
   }
 ]
