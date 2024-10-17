@@ -16,18 +16,18 @@ sites:
     maxResponseTime: 1000
 
   - name: Account Information API
-    url: https://accountinformation.roblox.com
+    url: https://accountinformation.roblox.com//
     method: GET
     maxResponseTime: 1000
 
   - name: Account Settings API
-    url: https://accountsettings.roblox.com
+    url: https://accountsettings.roblox.com//
     method: GET
     maxResponseTime: 1000
 
 
   - name: Asset Delivery
-    url: https://assetdelivery.roblox.com
+    url: https://assetdelivery.roblox.com//
     method: GET
     maxResponseTime: 1000
 
@@ -38,7 +38,7 @@ sites:
 
 
   - name: Auth API Endpoint
-    url: https://auth.roblox.com
+    url: https://auth.roblox.com//
     method: GET
     maxResponseTime: 1000
 
@@ -49,7 +49,7 @@ sites:
 
   - name: Billing API Endpoint
 
-    url: https://billing.roblox.com
+    url: https://billing.roblox.com//
     method: GET
     maxResponseTime: 1000    
 
@@ -64,7 +64,7 @@ sites:
     maxResponseTime: 1000
 
   - name: Datastore API Endpoint
-    url: https://gamepersistence.roblox.com/
+    url: https://gamepersistence.roblox.com//
     method: GET
     maxResponseTime: 1000
 
@@ -77,7 +77,7 @@ sites:
 
 
   - name: Economy API Endpoint
-    url: https://economy.roblox.com
+    url: https://economy.roblox.com//
     method: GET
     maxResponseTime: 1000
 
@@ -88,12 +88,12 @@ sites:
     maxResponseTime: 1000
 
   - name: Game Join API Endpoint
-    url: http://gamejoin.roblox.com/
+    url: http://gamejoin.roblox.com//
     method: GET
     maxResponseTime: 1000 
     
   - name: Games API Endpoint
-    url: https://games.roblox.com
+    url: https://games.roblox.com//
     method: GET
     maxResponseTime: 1000 
 
@@ -115,7 +115,7 @@ sites:
     maxResponseTime: 1000
 
   - name: Users API Endpoint
-    url: https://users.roblox.com/
+    url: https://users.roblox.com//
     method: GET
     maxResponseTime: 1000
 
