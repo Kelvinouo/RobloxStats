@@ -44,19 +44,19 @@
     "url": "https://developer.roblox.com",
     "icon": "https://icons.duckduckgo.com/ip3/developer.roblox.com.ico",
     "slug": "roblox-devhub",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 312,
-    "timeDay": 182,
-    "timeWeek": 260,
-    "timeMonth": 279,
+    "timeDay": 249,
+    "timeWeek": 274,
+    "timeMonth": 282,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2025-02-05": 0
+      "2025-02-05": 19
     }
   },
   {
