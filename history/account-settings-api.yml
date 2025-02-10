@@ -1,7 +1,7 @@
 url: https://accountsettings.roblox.com//
-status: degraded
-code: 504
-responseTime: 6545
-lastUpdated: 2025-02-10T23:31:37.350Z
+status: up
+code: 200
+responseTime: 60
+lastUpdated: 2025-02-10T23:51:16.502Z
 startTime: 2024-08-18T14:21:37.673Z
 generator: Upptime <https://github.com/upptime/upptime>
