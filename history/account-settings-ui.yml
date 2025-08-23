@@ -1,7 +1,7 @@
 url: https://apis.roblox.com/universal-app-configuration/v1/behaviors/account-settings-ui/content
-status: degraded
-code: 502
-responseTime: 1254
-lastUpdated: 2025-08-23T13:51:33.985Z
+status: down
+code: 503
+responseTime: 808
+lastUpdated: 2025-08-23T14:29:41.709Z
 startTime: 2024-08-18T16:01:32.505Z
 generator: Upptime <https://github.com/upptime/upptime>
