@@ -1,7 +1,7 @@
 url: https://www.roblox.com
-status: up
-code: 200
-responseTime: 115
-lastUpdated: 2026-03-08T23:31:46.401Z
+status: degraded
+code: 429
+responseTime: 15068
+lastUpdated: 2026-03-09T02:53:15.868Z
 startTime: 2024-08-18T14:21:35.444Z
 generator: Upptime <https://github.com/upptime/upptime>
